@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+    background-color: powderblue;
+}
+.izq{
+    width: 40%;
+    background-color: greenyellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.der{
+    font-family: cursive;
+
+}
